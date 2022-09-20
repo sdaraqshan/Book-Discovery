@@ -1,0 +1,1366 @@
+{
+  "tracker": {
+    "currently_reading": 0,
+    "books_to_read": 0,
+    "books_read": 0,
+    "target_per_year": 0
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "Inorganic Chemistry",
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_1.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 2,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "./assets/images/books/book_large_2.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 3,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_3.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 4,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_4.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 5,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_5.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 6,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_6.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 7,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_7.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 8,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_8.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 9,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_9.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 10,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "/assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_large_10.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "830 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 11,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 2,
+        "authorName": "VK",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_small_1.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "pages": "20/250 pages left",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 12,
+      "title": "The Physics Book",
+      "author": {
+        "id": 3,
+        "authorName": "clif",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_small_2.png",
+      "category": {
+        "id": 2,
+        "title": "Physics"
+      },
+      "rating": 4.5,
+      "pages": "120/300 pages left",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 13,
+      "title": "Biology",
+      "author": {
+        "id": 4,
+        "authorName": "Marie",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_small_3.png",
+      "category": {
+        "id": 3,
+        "title": "Biology"
+      },
+      "rating": 4.5,
+      "pages": "111/210 pages left",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 14,
+      "title": "World History",
+      "author": {
+        "id": 5,
+        "authorName": "Krish",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons See more",
+      "image": "/assets/images/books/book_small_4.png",
+      "category": {
+        "id": 4,
+        "title": "History"
+      },
+      "rating": 4.5,
+      "pages": "300/320 pages left",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 15,
+      "title": "Basic Physics",
+      "author": {
+        "id": 5,
+        "authorName": "Karl F Kuhn",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_1.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "1230 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 16,
+      "title": "Bio Organic Chemistry",
+      "author": {
+        "id": 6,
+        "authorName": "Sidney M Hecht",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "assets/images/books/book_medium_2.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "1230 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 17,
+      "title": "Crystal Chemistry",
+      "author": {
+        "id": 7,
+        "authorName": "Gerald Ferey",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_4.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 3.5,
+      "numberOfRatings": "1110 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 18,
+      "title": "Biology",
+      "author": {
+        "id": 8,
+        "authorName": "SergeyVasutin",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_3.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 3.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": true,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 19,
+      "title": "Inorganic Cemistry",
+      "author": {
+        "id": 9,
+        "authorName": "Roary Ried",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_5.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "1210 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 20,
+      "title": "English Grammar",
+      "author": {
+        "id": 10,
+        "authorName": "Sidney Greenbaum",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_6.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.2,
+      "numberOfRatings": "1120 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 21,
+      "title": "Heterocycles Chemistry",
+      "author": {
+        "id": 11,
+        "authorName": "Yann Martel",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_8.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 3.5,
+      "numberOfRatings": "1110 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 22,
+      "title": "World Geograhyy",
+      "author": {
+        "id": 12,
+        "authorName": "Charles Dickens",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_7.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 3.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": true,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 34,
+      "image": "/assets/images/topics/topic_large_1.png",
+      "category": "GEOGRAPHY",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 35,
+      "image": "/assets/images/topics/topic_large_2.png",
+      "category": "HISTORY",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 36,
+      "image": "/assets/images/topics/topic_large_3.png",
+      "category": "ECONOMICS",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 37,
+      "image": "/assets/images/topics/topic_large_4.png",
+      "category": "TELUGU",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 38,
+      "image": "/assets/images/topics/topic_large_5.png",
+      "category": "MATHS",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 39,
+      "image": "/assets/images/topics/topic_large_6.png",
+      "category": "SCIENCE",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 23,
+      "title": "Principles of Physics",
+      "author": {
+        "id": 13,
+        "authorName": "Rohit Mehta",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_9.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "1210 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 24,
+      "title": "German History",
+      "author": {
+        "id": 14,
+        "authorName": "Eric Dorn Brose",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_10.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.2,
+      "numberOfRatings": "1120 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 25,
+      "title": "Jungle Book",
+      "author": {
+        "id": 15,
+        "authorName": "Yann Martel",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_12.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 3.5,
+      "numberOfRatings": "1110 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 26,
+      "title": "The Prophet",
+      "author": {
+        "id": 12,
+        "authorName": "Charles Dickens",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_medium_11.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 3.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 27,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_small_8.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 28,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_small_9.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 29,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_small_10.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 30,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_small_11.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 31,
+      "title": "Inorganic Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_small_5.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 32,
+      "title": "NCERT Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "/assets/images/books/book_small_6.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 33,
+      "title": "Physical Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "J D Lee",
+        "authorDescription": "John Lee was a Senior Lecturer in the Department of Chemistry at Loughborough University, Leicestershire, UK and has authored many books and journal articles. ... Tech in ceramic engineering from Calcutta University and M. Tech from IIT Kanpur.",
+        "authorImage": "assets/images/avatars/avatar_small_2.png",
+        "authorFollowers": 2000
+      },
+      "image": "assets/images/books/book_small_7.png",
+      "category": {
+        "id": 1,
+        "title": "Chemistry"
+      },
+      "rating": 4.5,
+      "numberOfRatings": "130 ratings",
+      "reviews": 830,
+      "releaseDate": "12th September 1998",
+      "language": "English",
+      "status": {
+        "isReading": true,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": true
+      }
+    },
+    {
+      "id": 40,
+      "title": "Super Simple Biology",
+      "author": {
+        "id": 1,
+        "authorName": "D K Hudson"
+      },
+      "image": "assets/images/books/book_wide_1.png",
+      "category": {
+        "id": 1,
+        "title": "Humorous"
+      },
+      "rating": 4.2,
+      "numberOfRatings": "124 ratings",
+      "reviews": 543,
+      "releaseDate": "5th December, 1999",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 41,
+      "title": "Super Simple Physics",
+      "author": {
+        "id": 1,
+        "authorName": "D K Hudson"
+      },
+      "image": "assets/images/books/book_wide_2.png",
+      "category": {
+        "id": 1,
+        "title": "Humorous"
+      },
+      "rating": 4.8,
+      "numberOfRatings": "156 ratings",
+      "reviews": 654,
+      "releaseDate": "6th April, 2001",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 42,
+      "title": "Super Simple Chemistry",
+      "author": {
+        "id": 1,
+        "authorName": "D K Hudson"
+      },
+      "image": "assets/images/books/book_wide_3.png",
+      "category": {
+        "id": 1,
+        "title": "Humorous"
+      },
+      "rating": 3.8,
+      "numberOfRatings": "256 ratings",
+      "reviews": 235,
+      "releaseDate": "9th August, 1991",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    },
+    {
+      "id": 43,
+      "title": "The History Book",
+      "author": {
+        "id": 1,
+        "authorName": "D K Hudson"
+      },
+      "image": "assets/images/books/book_wide_4.png",
+      "category": {
+        "id": 1,
+        "title": "Humorous"
+      },
+      "rating": 3.2,
+      "numberOfRatings": "765 ratings",
+      "reviews": 1098,
+      "releaseDate": "17th February, 2005",
+      "language": "English",
+      "status": {
+        "isReading": false,
+        "isBookmarked": false,
+        "isRecommended": false,
+        "peopleAlsoRead": false,
+        "isTopRated": false
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "title": "Radha",
+      "image": ".././assets/images/avatars/avatar_medium_4.png",
+      "designation": "Professor at Harvard  University",
+      "rating": 4.5,
+      "comment": "Still a very nice Book, I got stuck at a place where I thought the problem was overprinting, or rather someone told me it was that. but it as simply just a mistake where I accidentally had set the box object (under effects [Effects panel can be found in the See more"
+    },
+    {
+      "id": 2,
+      "title": "Mira",
+      "image": "/assets/images/avatars/avatar_medium_5.png",
+      "designation": "Professor at Harvard  University",
+      "rating": 4.5,
+      "comment": "Still a very nice Book, I got stuck at a place where I thought the problem was overprinting, or rather someone told me it was that. but it as simply just a mistake where I accidentally had set the box object (under effects [Effects panel can be found in the See more"
+    },
+    {
+      "id": 3,
+      "title": "Mike",
+      "image": "/assets/images/avatars/avatar_medium_6.png",
+      "designation": "Professor at Harvard  University",
+      "rating": 4.5,
+      "comment": "Still a very nice Book, I got stuck at a place where I thought the problem was overprinting, or rather someone told me it was that. but it as simply just a mistake where I accidentally had set the box object (under effects [Effects panel can be found in the See more"
+    },
+    {
+      "id": 4,
+      "title": "harsha",
+      "image": "/assets/images/avatars/avatar_medium_7.png",
+      "designation": "Professor at Harvard  University",
+      "rating": 4.5,
+      "comment": "Still a very nice Book, I got stuck at a place where I thought the problem was overprinting, or rather someone told me it was that. but it as simply just a mistake where I accidentally had set the box object (under effects [Effects panel can be found in the See more"
+    }
+  ],
+  "following_Reviews": [
+    {
+      "id": 1,
+      "title": "Anvitha Sharma",
+      "image": "/assets/images/avatars/avatar_medium_1.png",
+      "designation": "Student",
+      "rating": 4.5,
+      "comment": "JD Lee was the 2016 recipient of the American Chemical Society's Grady Stack "
+    },
+    {
+      "id": 2,
+      "title": "Hannah",
+      "image": "/assets/images/avatars/avatar_medium_2.png",
+      "designation": "Student",
+      "rating": 4.5,
+      "comment": "JD Lee was the 2016 recipient of the American Chemical Society's Grady Stack "
+    },
+    {
+      "id": 3,
+      "title": "Riya",
+      "image": "assets/images/avatars/avatar_medium_3.png",
+      "designation": "Student",
+      "rating": 4.5,
+      "comment": "JD Lee was the 2016 recipient of the American Chemical Society's Grady Stack "
+    }
+  ],
+  "explore_topics": [
+    {
+      "id": 1,
+      "name": "Mathametics",
+      "image": "/assets/images/topics/topic_small_1.png",
+      "subtopics": [
+        {
+          "id": 1,
+          "name": "Algebra & linear algebra"
+        },
+        {
+          "id": 2,
+          "name": "Calculus"
+        },
+        {
+          "id": 3,
+          "name": "Statistics & Logistics"
+        },
+        {
+          "id": 4,
+          "name": "Trignometry"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Communication skills",
+      "image": "/assets/images/topics/topic_small_2.png",
+      "subtopics": [
+        {
+          "id": 5,
+          "name": "Aptitude"
+        },
+        {
+          "id": 6,
+          "name": "Vocabulary"
+        },
+        {
+          "id": 7,
+          "name": "Languages & linguistics"
+        },
+        {
+          "id": 8,
+          "name": "Writing"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Science",
+      "image": "/assets/images/topics/topic_small_3.png",
+      "subtopics": [
+        {
+          "id": 9,
+          "name": "Biology"
+        },
+        {
+          "id": 10,
+          "name": "Chemistry"
+        },
+        {
+          "id": 11,
+          "name": "Medical science"
+        },
+        {
+          "id": 12,
+          "name": "Physics"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Social Science",
+      "image": "/assets/images/topics/topic_small_4.png",
+      "subtopics": [
+        {
+          "id": 13,
+          "name": "History"
+        },
+        {
+          "id": 14,
+          "name": "Geography, maps & atlas"
+        },
+        {
+          "id": 15,
+          "name": "Civics & economics"
+        },
+        {
+          "id": 16,
+          "name": "Psychology"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lifestyle",
+      "image": "/assets/images/topics/topic_small_5.png",
+      "subtopics": [
+        {
+          "id": 17,
+          "name": "Art & crafts"
+        },
+        {
+          "id": 18,
+          "name": "Fashion & beauty"
+        },
+        {
+          "id": 19,
+          "name": "Hotel management"
+        },
+        {
+          "id": 20,
+          "name": "Travel & photography"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Textbooks & Guides",
+      "image": "/assets/images/topics/topic_small_6.png",
+      "subtopics": [
+        {
+          "id": 21,
+          "name": "Higher education"
+        },
+        {
+          "id": 22,
+          "name": "School textbooks"
+        },
+        {
+          "id": 23,
+          "name": "Reference"
+        },
+        {
+          "id": 24,
+          "name": "Study guides"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Others",
+      "image": "/assets/images/topics/topic_small_7.png",
+      "subtopics": [
+        {
+          "id": 25,
+          "name": "Computer & Internet"
+        },
+        {
+          "id": 26,
+          "name": "Development"
+        },
+        {
+          "id": 27,
+          "name": "Novels"
+        },
+        {
+          "id": 28,
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Exams preparation",
+      "image": "/assets/images/topics/topic_small_8.png",
+      "subtopics": [
+        {
+          "id": 29,
+          "name": "Defence"
+        },
+        {
+          "id": 30,
+          "name": "Engineering entrance"
+        },
+        {
+          "id": 31,
+          "name": "Medical entrance"
+        },
+        {
+          "id": 32,
+          "name": "Exams by UPSC"
+        }
+      ]
+    }
+  ]
+}
