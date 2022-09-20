@@ -1,0 +1,1 @@
+insert into BC54.author values(18, 'Chetan Bhagat', null, null);
