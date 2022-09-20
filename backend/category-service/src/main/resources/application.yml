@@ -1,0 +1,22 @@
+server:
+  port: 8002
+
+spring:
+  application:
+    name: CATEGORY-SERVICE
+
+  datasource:
+    url: jdbc:mysql://18.216.210.76:3306/BC54
+    username: root
+    password: password-bc-54
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://18.216.210.76:8761/eureka/
+  instance:
+    preferIpAddress: true
+    hostname: 18.216.210.76
