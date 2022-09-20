@@ -1,0 +1,62 @@
+version: '3.1'
+
+services:
+
+  frontend:
+    container_name: UI
+    image: ghcr.io/ayush-sriva/bc-54-ui
+    restart: always
+    ports:
+      - 80:3000
+  
+  author-service:
+    image: ghcr.io/ayush-sriva/bc-54-author-service
+    container_name: author-service
+    restart: always
+    ports:
+      - 8003:8003
+    depends_on:
+      - cloud-gateway
+
+  book-service:
+    image: ghcr.io/ayush-sriva/bc-54-book-service
+    container_name: book-service
+    restart: always
+    ports:
+      - 8001:8001
+    depends_on:
+      - cloud-gateway
+
+  category-service:
+    image: ghcr.io/ayush-sriva/bc-54-category-service
+    container_name: category-service
+    restart: always
+    ports:
+      - 8002:8002
+    depends_on:
+      - cloud-gateway
+
+  cloud-gateway:
+    image: ghcr.io/ayush-sriva/bc-54-cloud-gateway
+    container_name: cloud-gateway
+    restart: always
+    ports:
+      - 9191:9191
+    depends_on:
+      - service-registry
+
+  service-registry:
+    image: ghcr.io/ayush-sriva/bc-54-service-registry
+    container_name: service-registry
+    restart: always
+    ports:
+      - 8761:8761
+
+  user-service:
+    image: ghcr.io/ayush-sriva/bc-54-user-service
+    container_name: user-service
+    restart: always
+    ports:
+      - 8004:8004
+    depends_on:
+      - cloud-gateway
